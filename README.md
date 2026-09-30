@@ -1,6 +1,6 @@
 # My Custom KDE Plasma Dotfiles 🍵
 
-This repository contains a backup of the layout configurations, interface settings, and design assets for my personalized desktop environment. It sets up a streamlined, centered bottom panel dock matched with a dark jade/mint color profile, frosted glass windows, and snappy application layouts.
+This repository contains a backup of the layout configurations, interface settings, and design assets for my personalized desktop environment. It sets up a streamlined, minimal bottom panel dock matched with a dark jade/mint color profile, frosted glass windows, and snappy application layouts.
 
 ---
 
