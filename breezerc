@@ -1,0 +1,11 @@
+[Common]
+ShadowStrength=140
+
+[Style]
+MenuItemDrawStrongFocus=false
+MenuOpacity=80
+ToolBarDrawItemSeparator=false
+WindowDragMode=WD_FULL
+
+[Windeco]
+TitleAlignment=AlignLeft
