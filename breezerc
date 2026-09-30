@@ -1,11 +1,22 @@
 [Common]
-ShadowStrength=140
-
-[Style]
-MenuItemDrawStrongFocus=false
-MenuOpacity=80
-ToolBarDrawItemSeparator=false
-WindowDragMode=WD_FULL
+# Validated: Tints the drop-shadow to your custom Jade Dark RGB
+ShadowColor=8,20,14
+ShadowStrength=150
+ShadowSize=ShadowLarge
 
 [Windeco]
+# Validated: Hides the separator line for a modern seamless look
+DrawTitleBarSeparator=false
+
+# Validated: Forces smaller, cleaner window buttons
+ButtonSize=ButtonSmall
+
+# Validated: Ensures the title text aligns perfectly left
 TitleAlignment=AlignLeft
+
+[Style]
+# Configured: Menus are now 100% solid/opaque
+MenuOpacity=100
+
+# Configured: Allows windows to be dragged from any empty application space
+WindowDragMode=WD_FULL

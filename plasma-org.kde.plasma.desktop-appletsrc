@@ -21,25 +21,25 @@ DialogWidth=1920
 
 [Containments][1][General]
 arrangement=1
-changedPositions={"desktop:/Chapter Sequence.txt":["1920x1080","0","0"],"desktop:/Master_Transparency_Pack.kwinrule":["1920x1080","0","0"],"desktop:/first debloat terminal logs.txt":["1920x1080","9","8"],"desktop:/optimized-chapter-sequence.txt":["1920x1080","0","0"],"desktop:/realme_brand_services.txt":["1920x1080","0","5"],"desktop:/remaining_bloats.txt":["1920x1080","0","6"],"desktop:/safe debloat command for realme 5 pro":["1920x1080","0","7"],"desktop:/user_installed_apps.txt":["1920x1080","0","4"]}
+changedPositions={}
 filterMimeTypes=\\0
 iconSize=0
 lastResolution=1920x1080
-positions={"1920x1080":["1","15","desktop:/optimized-chapter-sequence.txt","0","0","desktop:/my-dotfiles","0","0","desktop:/KWin_Rules_Backup","0","2","desktop:/realme_brand_services.txt","0","5","desktop:/Realme 5 Pro Debloat & Setup","0","0","desktop:/all_system_packages.txt","0","2","desktop:/safe debloat command for realme 5 pro","0","7","desktop:/first debloat terminal logs.txt","9","8","desktop:/user_installed_apps.txt","0","4","desktop:/transparency for system settings.kwinrule","0","1","desktop:/Chapter Sequence.txt","0","0","desktop:/adb debloat commands.txt","0","1","desktop:/Master_Transparency_Pack.kwinrule","0","0","desktop:/remaining_bloats.txt","0","6"]}
+positions={"1920x1080":[]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/dhruv/Pictures/Wallpapers/BG1.jpg
+Image=/home/user/Pictures/Wallpapers/BG1.jpg
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][1][Wallpaper][org.kde.potd][General]
 Provider=simonstalenhag
 
 [Containments][1][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/dhruv/Pictures/Wallpapers/kawaii-ice-cream-5120x2880-11392.png
+Image=file:///home/user/Pictures/Wallpapers/kawaii-ice-cream-5120x2880-11392.png
 SlideInterval=600
-SlidePaths=/home/dhruv/Pictures/Wallpapers/
-UncheckedSlides=/run/media/dhruv/Data/Wallpapers/michael-2026-8k-7680x4320-24508.jpg,/run/media/dhruv/Data/Wallpapers/japan-artistic-5120x2880-25406.jpg,/run/media/dhruv/Data/Wallpapers/heart-shape-skulls-5120x2880-24794.jpg,/run/media/dhruv/Data/Wallpapers/freddy-fazbear-five-5120x2880-24850.png,/run/media/dhruv/Data/Wallpapers/2026-new-year-5120x2880-24649.png,/run/media/dhruv/Data/Wallpapers/anirzeet-roy-pramanik-uECxP0l8TM8-unsplash.png,/run/media/dhruv/Data/Wallpapers/crimson-omen-gears-3840x2160-24985.png,/home/dhruv/Pictures/Wallpapers/2026-new-year-5120x2880-24649.png,/home/dhruv/Pictures/Wallpapers/anirzeet-roy-pramanik-uECxP0l8TM8-unsplash.png,/home/dhruv/Pictures/Wallpapers/crimson-omen-gears-3840x2160-24985.png,/home/dhruv/Pictures/Wallpapers/freddy-fazbear-five-5120x2880-24850.png,/home/dhruv/Pictures/Wallpapers/heart-shape-skulls-5120x2880-24794.jpg,/home/dhruv/Pictures/Wallpapers/japan-artistic-5120x2880-25406.jpg,/home/dhruv/Pictures/Wallpapers/michael-2026-8k-7680x4320-24508.jpg
+SlidePaths=/home/user/Pictures/Wallpapers/
+UncheckedSlides=/run/media/user/Data/Wallpapers/michael-2026-8k-7680x4320-24508.jpg,/run/media/user/Data/Wallpapers/japan-artistic-5120x2880-25406.jpg,/run/media/user/Data/Wallpapers/heart-shape-skulls-5120x2880-24794.jpg,/run/media/user/Data/Wallpapers/freddy-fazbear-five-5120x2880-24850.png,/run/media/user/Data/Wallpapers/2026-new-year-5120x2880-24649.png,/run/media/user/Data/Wallpapers/anirzeet-roy-pramanik-uECxP0l8TM8-unsplash.png,/run/media/user/Data/Wallpapers/crimson-omen-gears-3840x2160-24985.png,/home/user/Pictures/Wallpapers/2026-new-year-5120x2880-24649.png,/home/user/Pictures/Wallpapers/anirzeet-roy-pramanik-uECxP0l8TM8-unsplash.png,/home/user/Pictures/Wallpapers/crimson-omen-gears-3840x2160-24985.png,/home/user/Pictures/Wallpapers/freddy-fazbear-five-5120x2880-24850.png,/home/user/Pictures/Wallpapers/heart-shape-skulls-5120x2880-24794.jpg,/home/user/Pictures/Wallpapers/japan-artistic-5120x2880-25406.jpg,/home/user/Pictures/Wallpapers/michael-2026-8k-7680x4320-24508.jpg
 
 [Containments][34]
 activityId=
@@ -261,4 +261,4 @@ AppletOrder=115;70;117;130;71;129;125;74;131
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/my-dotfiles,0,ecaa93ed-42cc-4fad-8980-ac7bb9dc536b
+screenMapping=

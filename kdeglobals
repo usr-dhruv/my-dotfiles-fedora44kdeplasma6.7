@@ -139,11 +139,10 @@ Theme=Papirus-Dark
 
 [KDE]
 AnimationDurationFactor=0.75
-LookAndFeelPackage=RED BLURRY THEME
+LookAndFeelPackage=org.kde.breezedark.desktop
 ShowDeleteCommand=false
 contrast=7
 frameContrast=0.2
-widgetStyle=Breeze
 
 [KFileDialog Settings]
 Allow Expansion=false
